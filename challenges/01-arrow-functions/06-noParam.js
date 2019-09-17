@@ -3,12 +3,12 @@
 // you should use the empty () syntax of _ syntax.
 
 
-function noParam() {
+// function noParam() {
 
-}
+// }
 
 
-
+const noParam = () => 'hey'.concat('there');
 
 
 
